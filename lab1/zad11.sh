@@ -18,7 +18,7 @@ for f in "$1"/* "$1"/.*
 do
 	if [ -w "$f" ]
 	then
-		touch "$f"
+		touch -m "$f"
 	fi
 done
 exit 0
