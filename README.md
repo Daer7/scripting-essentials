@@ -1,2 +1,2 @@
 # scripting-essentials
-Operating systems university course exercises
+Operating systems university course exercises.
